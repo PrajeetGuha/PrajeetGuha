@@ -1,4 +1,4 @@
-# 👋 Hey hey, cyber folks!
+# 👋 Hey, cyber folks!
 
 I'm **Prajeet Guha** — your friendly neighborhood **Blue Teamer** who loves rolling up sleeves, diving into logs, and keeping the bad guys on their toes! 😄🛡️
 
