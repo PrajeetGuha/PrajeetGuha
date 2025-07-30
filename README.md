@@ -30,9 +30,12 @@ By day, I’m wrangling logs and chasing alerts. By night, I’m sneaking a peek
 
 ## 🏅 Certs & Learning Adventures
 
-- ✅ **CompTIA Security+** — the entry badge to this wild ride
-- 🧠 **Currently chasing CEH** — learning to sneak like an attacker (for good, of course!)
-- 📚 Forever curious, forever learning — there’s always a new rabbit hole to dive into 🐇
+- ✅ Got my Security+ badge — my golden ticket into the crazy world of cybersecurity  
+- 🧠 On the hunt for CEH — mastering the art of sneaky (but totally ethical) hacker moves  
+- 🖥️ Geeking out over **Windows Internals** — gotta know what makes the OS tick!  
+- 🐛 Diving deep into **Malware Analysis** — chasing bugs and bad code like a cyber detective  
+- 🔎 Playing detective with **Forensics** — piecing together digital mysteries, one clue at a time  
+- 📚 Always curious, always learning — there’s a new rabbit hole waiting to be explored! 🐇
 
 ---
 
